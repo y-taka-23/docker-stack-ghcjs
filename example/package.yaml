@@ -1,0 +1,12 @@
+name:               stack-ghcjs-example
+version:            '0.1.0.0'
+synopsis:           An example usage of ytaka23/stack-ghcjs image.
+category:           Web
+license:            BSD3
+
+dependencies:
+- base
+
+executables:
+  stack-ghcjs-example:
+    main:           Main.hs
