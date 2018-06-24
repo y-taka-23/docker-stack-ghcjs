@@ -31,4 +31,4 @@ docker run -d -p 8080:80 stack-ghcjs-example
 Open [http://localhost:8080](http://localhost:8080),
 and you can see `putStrLn` in Haskell is compiled to `console.log()` in JavaScript.
 
-Todo: screenshot here.
+![screenshot](example/screenshot.png)
